@@ -21,7 +21,7 @@ body {
 .header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7),
             rgba(0, 0, 0, 0.7)),
-        url(/Img/img1.png);
+        url(../img/img1.png);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -47,7 +47,7 @@ body {
 }
 
 .logo {
-    background-image: url(/Img/Logo.png);
+    background-image: url(img/Logo.png);
     color: #fffdfc;
     font-size: 25px;
 }
@@ -182,7 +182,7 @@ body {
 .centros {
     background-image: linear-gradient(rgba(0, 0, 0, 0.8),
             rgba(0, 0, 0, 0.8)),
-        url(/Img/img5.jpeg);
+        url(imgimg5.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -271,7 +271,7 @@ body {
 }
 
 .general-2 {
-    background-image: url(/Img/IMG_0116.jpeg);
+    background-image: url(../img/img_0116.jpeg);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -280,7 +280,7 @@ body {
 }
 
 .general-3 {
-    background-image: url(/Img/IMG_0121.jpeg);
+    background-image: url(../img/img_0121.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
