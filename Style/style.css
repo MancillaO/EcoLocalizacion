@@ -21,7 +21,7 @@ body {
 .header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7),
             rgba(0, 0, 0, 0.7)),
-        url(../img/img1.png);
+        url(../Img/img1.png);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -47,7 +47,7 @@ body {
 }
 
 .logo {
-    background-image: url(img/Logo.png);
+    background-image: url(Img/Logo.png);
     color: #fffdfc;
     font-size: 25px;
 }
@@ -271,7 +271,7 @@ body {
 }
 
 .general-2 {
-    background-image: url(../img/img_0116.jpeg);
+    background-image: url(../Img/img_0116.jpeg);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -280,7 +280,7 @@ body {
 }
 
 .general-3 {
-    background-image: url(../img/img_0121.jpeg);
+    background-image: url(../Img/img_0121.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
